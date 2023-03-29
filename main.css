@@ -1,0 +1,26 @@
+body {
+    background-color: aqua;
+}
+
+.wrapper {
+    margin: 5px;
+}
+
+#title-p {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+}
+
+#title-p img {
+    height: 75vh;
+}
+
+.nav {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 250px;
+    background-color: lightblue;
+    border: 3px solid white;
+}
